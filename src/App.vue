@@ -19,10 +19,7 @@
         </v-row>
         <div class="text-caption pa-2 bg-grey-lighten-4">
           <div class="text-grey">NOTE</div>
-          <div class="font-weight-medium">
-            Add all characters you want to remove. Default: ",[]
-            <i>(space ' ')</i>
-          </div>
+          <div class="font-weight-medium">Add all characters you want to remove. Default: ",[]</div>
         </div>
       </v-col>
       <v-col cols="12" sm="5">
